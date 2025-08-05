@@ -46,11 +46,9 @@ An interactive, beautifully styled dashboard to explore **120 years of Olympic h
 
 ## 📸 Screenshots
 
-| Home Page | Country Analysis | Athlete Insights |
+| Athlete Analysis Page | Country Analysis | Athlete Insights | 
 |-----------|------------------|------------------|
-| ![Home](screenshots/home.png) | ![Country](screenshots/country.png) | ![Athletes](screenshots/athletes.png) |
-
-*(Place screenshots inside a `screenshots/` folder in your repo)*
+| ![Home](images/Athlete_Analysis.png) | ![Country](images/Country_wise.png) | ![Athletes](images/Overall_analysis.png) |
 
 ---
 
@@ -64,9 +62,3 @@ An interactive, beautifully styled dashboard to explore **120 years of Olympic h
 
 ---
 
-## 🛠️ Setup Instructions
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/olympia-insights.git
-   cd olympia-insights
