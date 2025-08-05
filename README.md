@@ -9,7 +9,7 @@ An interactive, beautifully styled dashboard to explore **120 years of Olympic h
 ## 🌐 Live Demo
 
 [🔗 Streamlit App](#)  
-*(Replace with your deployed Streamlit Cloud link)*
+*(https://www.loom.com/share/0f16921c78954a89a71a3a7e420c7439?sid=ac68f2c6-4a3c-426b-a557-fcf0f2d44f8f)*
 
 ---
 
