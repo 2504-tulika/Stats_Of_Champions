@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
 import preprocessor
+import helper
 
+st.set_page_config(page_title="Olympic Data Explorer", layout="wide")
 st.markdown("""
     <div style='display: flex; align-items: center; gap: 15px; margin-bottom: 20px;'>
         <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/320px-Olympic_rings_without_rims.svg.png' width='50'>
@@ -10,7 +12,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------- Custom Olympic Styling ----------------
-st.set_page_config(page_title="Olympic Data Explorer", layout="wide")
+
 
 st.markdown("""
     <style>
